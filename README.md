@@ -12,7 +12,7 @@ download and clone the project
 
 you need to run the following commands:
 
-    cd YouTube-clone
+    cd youtube-clone
 
     npm install
 
